@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://yourdomain/OverEarly" version="1.0.0" viewmodes="maximized">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/OverEarly" version="1.0.0" viewmodes="maximized">
     <tizen:application id="auhWg8wNEe.OverEarly" package="auhWg8wNEe" required_version="2.3.2"/>
     <author href="http://leifcnp.com" email="leifcnp@gmail.com">Leif Pedersen</author>
     <content src="index.html"/>
     <feature name="http://tizen.org/feature/screen.size.all"/>
-    <icon src="overearlyLARGE.png"/>
+    <icon src="overearlySmall.png"/>
     <name>OverEarly</name>
     <tizen:profile name="wearable"/>
 </widget>

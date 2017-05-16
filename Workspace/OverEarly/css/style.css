@@ -4,7 +4,7 @@
 
 body {
     margin: 0px auto;
-    background-color:#222;
+    background-color:#0f6594;
 }
 
 .contents {
@@ -13,11 +13,13 @@ body {
 	box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	height:320px;
+	text-align: center;
+    align-items: center;
 }
 
 
 .content_text {
 	font-weight:bold;
 	font-size:5em;
-	color:#fff;
+	color:#1d8fcc;
 }
